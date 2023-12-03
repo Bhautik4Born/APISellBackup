@@ -1,0 +1,2 @@
+[27-Jun-2023 10:15:31 UTC] PHP Warning:  require_once(include/config.php): failed to open stream: No such file or directory in /home/autovalu/public_html/api_simplesoft/otp/index.php on line 3
+[27-Jun-2023 10:15:31 UTC] PHP Fatal error:  require_once(): Failed opening required 'include/config.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/autovalu/public_html/api_simplesoft/otp/index.php on line 3
